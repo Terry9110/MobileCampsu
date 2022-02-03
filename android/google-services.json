@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176865440703",
+    "project_id": "campsu-8f97d",
+    "storage_bucket": "campsu-8f97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176865440703:android:d20d87556e432995d5270a",
+        "android_client_info": {
+          "package_name": "com.example.campsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176865440703-qqmag8se4k8194eh3dniq9hkgebg1gh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNXhKOLhkY9oxJFCXGZ9a6rYzPeaK1eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176865440703-qqmag8se4k8194eh3dniq9hkgebg1gh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
