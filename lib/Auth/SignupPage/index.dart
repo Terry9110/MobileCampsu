@@ -159,6 +159,11 @@ class _SignupPage extends State<SignupPage> {
             routeName: "/login",
           ),
           const SizedBox(height: 20),
+          const BottomText(
+            startText: "I'm already a member !",
+            actionText: "Phone Authentication",
+            routeName: "/login",
+          ),
         ],
       ),
     ));
